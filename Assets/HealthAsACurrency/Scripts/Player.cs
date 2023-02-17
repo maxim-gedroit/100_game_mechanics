@@ -2,18 +2,55 @@ using UnityEngine;
 
 namespace HealthAsACurrency.Scripts
 {
+    [RequireComponent(typeof(CharacterController))]
     public class Player : MonoBehaviour
     {
-        // Start is called before the first frame update
+        public int liveCount = 5;
+        public float speed = 6.0f;
+        public float jumpSpeed = 8.0f;
+        public float rotateSpeed = 0.8f;
+        public float gravity = 20.0f;
+        
+        private Vector3 _moveDirection = Vector3.zero;
+        
+       [SerializeField] private CharacterController _controller;
+       [SerializeField] private Transform _playerCamera;
         void Start()
         {
-        
+            _controller = GetComponent<CharacterController>();
         }
 
-        // Update is called once per frame
         void Update()
         {
-        
+            Movement();
+        }
+
+        private void Movement()
+        {
+            transform.Rotate(0, Input.GetAxis("Mouse X") * rotateSpeed, 0);
+            _playerCamera.Rotate(-Input.GetAxis("Mouse Y") * rotateSpeed, 0, 0);
+            
+            if (_playerCamera.localRotation.eulerAngles.y != 0)
+            {
+                _playerCamera.Rotate(Input.GetAxis("Mouse Y") * rotateSpeed, 0, 0);
+            }
+            
+            _moveDirection = new Vector3(Input.GetAxis("Horizontal") * speed, _moveDirection.y, Input.GetAxis("Vertical") * speed);
+            _moveDirection = transform.TransformDirection(_moveDirection);
+            
+            if (_controller.isGrounded)
+            {
+                if (Input.GetButton("Jump")) _moveDirection.y = jumpSpeed;
+                else _moveDirection.y = 0;
+            }
+
+            _moveDirection.y -= gravity * Time.deltaTime;
+            _controller.Move(_moveDirection * Time.deltaTime);
+        }
+
+        private void OnCollisionEnter(Collision collision)
+        {
+            Debug.Log(collision.collider.name);
         }
     }
 }
