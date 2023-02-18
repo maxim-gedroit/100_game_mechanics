@@ -1,3 +1,5 @@
+using System;
+using TMPro;
 using UnityEngine;
 
 namespace HealthAsACurrency.Scripts
@@ -15,9 +17,27 @@ namespace HealthAsACurrency.Scripts
         
        [SerializeField] private CharacterController _controller;
        [SerializeField] private Transform _playerCamera;
-        void Start()
+       [SerializeField] private TMP_Text _lifesLbl;
+       private int LiveCount {
+           get
+           {
+               return liveCount;
+           }   
+           set
+           {
+               liveCount = value;
+               _lifesLbl.text = $"Life: {liveCount.ToString()}";
+           }  
+       }
+
+       private void Awake()
+       {
+           _controller = GetComponent<CharacterController>();
+       }
+
+       void Start()
         {
-            _controller = GetComponent<CharacterController>();
+            LiveCount = liveCount;
         }
 
         void Update()
@@ -50,7 +70,20 @@ namespace HealthAsACurrency.Scripts
 
         private void OnCollisionEnter(Collision collision)
         {
-            Debug.Log(collision.collider.name);
+            LiveCount--;
+        }
+
+        private void OnTriggerEnter(Collider other)
+        {
+            if (other.CompareTag("life"))
+            {
+                LiveCount += 2;
+            }
+
+            if (other.CompareTag("Finish"))
+            {
+                LiveCount = 9999999;
+            }
         }
     }
 }
