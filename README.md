@@ -28,7 +28,7 @@ You need to collect lives to successfully complete the game.
 
 https://user-images.githubusercontent.com/54240237/219852906-b1f63275-45d9-4c25-b982-770d9518dd19.mov
 
-
+---
 
 2. Fog of war
 
