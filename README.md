@@ -28,4 +28,13 @@ You need to collect lives to successfully complete the game.
 
 https://user-images.githubusercontent.com/54240237/219852906-b1f63275-45d9-4c25-b982-770d9518dd19.mov
 
+2. Fog of war
+
+The further the player goes, the more the map is visible.
+
+https://user-images.githubusercontent.com/54240237/219856298-292ed55a-1329-4c52-b601-b6af341fb0aa.mov
+
+
+
+
 
