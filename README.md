@@ -36,6 +36,13 @@ The further the player goes, the more the map is visible.
 
 https://user-images.githubusercontent.com/54240237/219856298-292ed55a-1329-4c52-b601-b6af341fb0aa.mov
 
+---
+
+3. Lack of menu, or menu inscribed in the game world
+
+If you are tired of canvas and want to make a new menu, then this mechanic is definitely for you!
+
+https://user-images.githubusercontent.com/54240237/219957927-279bd1ee-f8d5-45ef-88ec-6118b61777fc.mov
 
 
 
