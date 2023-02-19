@@ -44,6 +44,15 @@ If you are tired of canvas and want to make a new menu, then this mechanic is de
 
 https://user-images.githubusercontent.com/54240237/219957927-279bd1ee-f8d5-45ef-88ec-6118b61777fc.mov
 
+---
+
+4. Red barrels
+
+Standard barrel explosion.
+
+https://user-images.githubusercontent.com/54240237/219970012-9abda9e3-13c4-470f-b3b2-bd333ef180b8.mov
+
+
 
 
 
