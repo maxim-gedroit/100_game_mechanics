@@ -52,6 +52,15 @@ Standard barrel explosion.
 
 https://user-images.githubusercontent.com/54240237/219970012-9abda9e3-13c4-470f-b3b2-bd333ef180b8.mov
 
+---
+
+5. Sandbox
+
+In the mechanics of the sandbox, I took for the main idea - the capture and dragging of objects. 
+
+https://user-images.githubusercontent.com/54240237/220123478-4cac27d4-11b6-484b-b85b-b9a6806c8e3d.mov
+
+
 
 
 
