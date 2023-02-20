@@ -60,6 +60,16 @@ In the mechanics of the sandbox, I took for the main idea - the capture and drag
 
 https://user-images.githubusercontent.com/54240237/220123478-4cac27d4-11b6-484b-b85b-b9a6806c8e3d.mov
 
+---
+
+6. Flexible creation of custom spells or weapons
+
+From three figures you can make 6 types of weapons.
+
+https://user-images.githubusercontent.com/54240237/220170539-414ac13e-7ff4-4272-89ea-daec465006a0.mov
+
+
+
 
 
 
