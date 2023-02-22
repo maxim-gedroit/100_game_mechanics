@@ -17,7 +17,10 @@ LIST OF GAME MECHANICS
 5. Sandbox
 6. Flexible creation of custom spells or weapons
 7. Saving in bed or in the house of a game character
-8. ... Coming soon ...
+8. Bullet hell
+9. Complicated relationships between NPCs
+10. Change level color
+11. ... Coming soon ...
 
 
 
@@ -67,6 +70,16 @@ https://user-images.githubusercontent.com/54240237/220123478-4cac27d4-11b6-484b-
 From three figures you can make 6 types of weapons.
 
 https://user-images.githubusercontent.com/54240237/220170539-414ac13e-7ff4-4272-89ea-daec465006a0.mov
+
+
+---
+
+7. Saving in bed or in the house of a game character
+
+https://user-images.githubusercontent.com/54240237/220702278-e23f31d3-08d7-4452-9928-1ffd19dd63c4.mov
+
+
+
 
 
 
