@@ -78,6 +78,13 @@ https://user-images.githubusercontent.com/54240237/220170539-414ac13e-7ff4-4272-
 
 https://user-images.githubusercontent.com/54240237/220702278-e23f31d3-08d7-4452-9928-1ffd19dd63c4.mov
 
+---
+
+8. Bullet hell
+
+For example, some final boss with different types of bullets.
+
+https://user-images.githubusercontent.com/54240237/220745254-bcf7a400-05d0-471b-8023-7c0068a7058f.mov
 
 
 
