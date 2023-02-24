@@ -86,6 +86,15 @@ For example, some final boss with different types of bullets.
 
 https://user-images.githubusercontent.com/54240237/220745254-bcf7a400-05d0-471b-8023-7c0068a7058f.mov
 
+---
+
+9. Complicated relationships between NPCs
+
+I decided to implement the relationship between the NPCs as in minecraft between the villagers and the invaders.
+
+https://user-images.githubusercontent.com/54240237/221295233-958886ed-5247-4f49-b382-2793ea1198b4.mov
+
+
 
 
 
