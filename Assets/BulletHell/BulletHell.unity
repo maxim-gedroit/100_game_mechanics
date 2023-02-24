@@ -134,6 +134,7 @@ GameObject:
   - component: {fileID: 352048897}
   - component: {fileID: 352048899}
   - component: {fileID: 352048898}
+  - component: {fileID: 352048900}
   m_Layer: 0
   m_Name: Minigun
   m_TagString: Untagged
@@ -1007,7 +1008,7 @@ ParticleSystem:
       speed:
         serializedVersion: 2
         minMaxState: 0
-        scalar: 3
+        scalar: 1
         minScalar: 1
         maxCurve:
           serializedVersion: 2
@@ -4936,6 +4937,18 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
+--- !u!114 &352048900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352048896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ce4fe12301e64b0390b6829d9720639, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &407262689
 GameObject:
   m_ObjectHideFlags: 0
