@@ -94,6 +94,15 @@ I decided to implement the relationship between the NPCs as in minecraft between
 
 https://user-images.githubusercontent.com/54240237/221295233-958886ed-5247-4f49-b382-2793ea1198b4.mov
 
+---
+
+10. Change level color
+
+Changing the color of the map was achieved by switching shaders.
+
+https://user-images.githubusercontent.com/54240237/221368563-727a6b14-cf16-4d78-8730-697bb4f151ba.mov
+
+
 
 
 
