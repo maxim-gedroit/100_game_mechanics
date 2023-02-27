@@ -20,6 +20,7 @@ LIST OF GAME MECHANICS
 8. Bullet hell
 9. Complicated relationships between NPCs
 10. Change level color
+11. Ghost after dead
 11. ... Coming soon ...
 
 
@@ -102,7 +103,13 @@ Changing the color of the map was achieved by switching shaders.
 
 https://user-images.githubusercontent.com/54240237/221368563-727a6b14-cf16-4d78-8730-697bb4f151ba.mov
 
+---
 
+11. Ghost after dead
+
+The animation of the appearance was made through coroutine and a custom shader.
+
+https://user-images.githubusercontent.com/54240237/221650078-8a64dad6-00c2-4c7b-af48-ba12e2bbf702.mov
 
 
 
