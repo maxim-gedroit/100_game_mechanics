@@ -21,7 +21,8 @@ LIST OF GAME MECHANICS
 9. Complicated relationships between NPCs
 10. Change level color
 11. Ghost after dead
-11. ... Coming soon ...
+12. Death depends on time
+13. ... Coming soon ...
 
 
 
@@ -110,6 +111,14 @@ https://user-images.githubusercontent.com/54240237/221368563-727a6b14-cf16-4d78-
 The animation of the appearance was made through coroutine and a custom shader.
 
 https://user-images.githubusercontent.com/54240237/221650078-8a64dad6-00c2-4c7b-af48-ba12e2bbf702.mov
+
+---
+
+12. Death depends on time
+
+The approaching death depends on time. In this case, a platformer was made with lava that fills the room.
+
+https://user-images.githubusercontent.com/54240237/221667610-15d30c55-87c2-4f79-9d99-d0e918bc911f.mov
 
 
 
