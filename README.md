@@ -22,7 +22,8 @@ LIST OF GAME MECHANICS
 10. Change level color
 11. Ghost after dead
 12. Death depends on time
-13. ... Coming soon ...
+13. Bridge constructor
+14. ... Coming soon ...
 
 
 
@@ -119,6 +120,15 @@ https://user-images.githubusercontent.com/54240237/221650078-8a64dad6-00c2-4c7b-
 The approaching death depends on time. In this case, a platformer was made with lava that fills the room.
 
 https://user-images.githubusercontent.com/54240237/221667610-15d30c55-87c2-4f79-9d99-d0e918bc911f.mov
+
+---
+
+13. Bridge constructor
+
+When implementing this mechanic, I made a mesh generation.
+
+https://user-images.githubusercontent.com/54240237/221946002-f0cfa2fb-29a5-4a8e-87db-88b17e91551b.mov
+
 
 
 
