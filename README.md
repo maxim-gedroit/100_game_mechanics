@@ -23,7 +23,8 @@ LIST OF GAME MECHANICS
 11. Ghost after dead
 12. Death depends on time
 13. Bridge constructor
-14. ... Coming soon ...
+14. Infection
+15. ... Coming soon ...
 
 
 
@@ -129,6 +130,11 @@ When implementing this mechanic, I made a mesh generation.
 
 https://user-images.githubusercontent.com/54240237/221946002-f0cfa2fb-29a5-4a8e-87db-88b17e91551b.mov
 
+---
+
+14. Infection
+
+https://user-images.githubusercontent.com/54240237/222163266-7387b1dc-4a22-42d8-8c17-a85e9e94371f.mov
 
 
 
