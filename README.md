@@ -24,7 +24,8 @@ LIST OF GAME MECHANICS
 12. Death depends on time
 13. Bridge constructor
 14. Infection
-15. ... Coming soon ...
+15. Rythm Based
+16. ... Coming soon ...
 
 
 
@@ -136,9 +137,13 @@ https://user-images.githubusercontent.com/54240237/221946002-f0cfa2fb-29a5-4a8e-
 
 https://user-images.githubusercontent.com/54240237/222163266-7387b1dc-4a22-42d8-8c17-a85e9e94371f.mov
 
+---
 
+15. Rythm based
 
+Standard mechanics to have time to press a certain key to the rhythm of the music.
 
+https://user-images.githubusercontent.com/54240237/222226035-f30fc56a-d275-46fd-9ffb-152fbbb9a273.mov
 
 
 
