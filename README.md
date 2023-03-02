@@ -25,7 +25,8 @@ LIST OF GAME MECHANICS
 13. Bridge constructor
 14. Infection
 15. Rythm Based
-16. ... Coming soon ...
+16. Player Statistics
+17. ... Coming soon ...
 
 
 
@@ -145,6 +146,11 @@ Standard mechanics to have time to press a certain key to the rhythm of the musi
 
 https://user-images.githubusercontent.com/54240237/222226035-f30fc56a-d275-46fd-9ffb-152fbbb9a273.mov
 
+16. Player statistics
+
+Here it was decided to make statistics as in ordinary races that are smoothly sorted in the list.
+
+https://user-images.githubusercontent.com/54240237/222501035-965b0980-8da6-4bfd-8afb-4126f994e934.mov
 
 
 
