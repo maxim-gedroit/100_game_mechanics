@@ -163,7 +163,7 @@ https://user-images.githubusercontent.com/54240237/222501035-965b0980-8da6-4bfd-
 
 This mechanic is that when you are not playing the game, changes still occur. These things are done by manipulating dates.
 
-https://user-images.githubusercontent.com/54240237/222529322-e26c0f16-1ad5-4668-90cf-62bdec37efb6.mov
+https://user-images.githubusercontent.com/54240237/222756748-77ea056b-2321-4005-a524-6c282db7c85f.mov
 
 ---
 
