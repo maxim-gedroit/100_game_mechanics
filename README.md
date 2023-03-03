@@ -4,6 +4,7 @@ Implementation of the 100 most famous game mechanics
 Hi all! I am starting a marathon of implementing 100 well-known game mechanics based on the Unity game engine and the C# programming language.
 A list of these mechanics is freely available on the Internet. The main goal of this marathon is to try to implement all the mechanics in various ways.
 Please do not judge strictly for the quality of the code, since many of these mechanics have never been implemented before. Try to implement all things as simply as possible.
+In this project, I neglect the basic principles of programming (OOP, SOLID, etc.) in favor of the speed of writing mechanics. Maybe someday I'll get it right.)
 I will consider all your ideas and suggestions!
 I hope this repository will be useful to everyone who needs new game features in projects.
 
@@ -27,7 +28,8 @@ LIST OF GAME MECHANICS
 15. Rythm Based
 16. Player Statistics
 17. Idle
-18. ... Coming soon ...
+18. Farm
+19. ... Coming soon ...
 
 
 
@@ -162,6 +164,13 @@ https://user-images.githubusercontent.com/54240237/222501035-965b0980-8da6-4bfd-
 This mechanic is that when you are not playing the game, changes still occur. These things are done by manipulating dates.
 
 https://user-images.githubusercontent.com/54240237/222529322-e26c0f16-1ad5-4668-90cf-62bdec37efb6.mov
+
+18. Farm
+
+The basic principle of the farm - earned and paid.
+
+https://user-images.githubusercontent.com/54240237/222755831-294087e3-5f3b-407b-b330-a82dec4534b0.mov
+
 
 
 
