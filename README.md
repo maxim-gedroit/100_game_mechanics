@@ -165,6 +165,8 @@ This mechanic is that when you are not playing the game, changes still occur. Th
 
 https://user-images.githubusercontent.com/54240237/222529322-e26c0f16-1ad5-4668-90cf-62bdec37efb6.mov
 
+---
+
 18. Farm
 
 The basic principle of the farm - earned and paid.
