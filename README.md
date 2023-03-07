@@ -29,7 +29,8 @@ LIST OF GAME MECHANICS
 16. Player Statistics
 17. Idle
 18. Farm
-19. ... Coming soon ...
+19. Programming
+20. ... Coming soon ...
 
 
 
@@ -172,6 +173,19 @@ https://user-images.githubusercontent.com/54240237/222756748-77ea056b-2321-4005-
 The basic principle of the farm - earned and paid.
 
 https://user-images.githubusercontent.com/54240237/222755831-294087e3-5f3b-407b-b330-a82dec4534b0.mov
+
+---
+
+19. Programming
+
+The main idea is to do it the way redstone works in minecraft.
+
+https://user-images.githubusercontent.com/54240237/223504049-f2c21ca1-1294-429f-8006-9eb97c5098cb.mov
+
+
+
+
+
 
 
 
