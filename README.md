@@ -30,7 +30,8 @@ LIST OF GAME MECHANICS
 17. Idle
 18. Farm
 19. Programming
-20. ... Coming soon ...
+20. Undo
+21. ... Coming soon ...
 
 
 
@@ -181,6 +182,14 @@ https://user-images.githubusercontent.com/54240237/222755831-294087e3-5f3b-407b-
 The main idea is to do it the way redstone works in minecraft.
 
 https://user-images.githubusercontent.com/54240237/223504049-f2c21ca1-1294-429f-8006-9eb97c5098cb.mov
+
+---
+
+20. Undo 
+
+https://user-images.githubusercontent.com/54240237/224450920-2f1d0ab8-1ff2-4427-a7e6-ad07992a2d31.mov
+
+
 
 
 
