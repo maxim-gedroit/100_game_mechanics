@@ -31,6 +31,7 @@ LIST OF GAME MECHANICS
 18. Farm
 19. Programming
 20. Undo
+21. Ladders
 21. ... Coming soon ...
 
 
@@ -188,6 +189,13 @@ https://user-images.githubusercontent.com/54240237/223504049-f2c21ca1-1294-429f-
 20. Undo 
 
 https://user-images.githubusercontent.com/54240237/224450920-2f1d0ab8-1ff2-4427-a7e6-ad07992a2d31.mov
+
+---
+
+21. Ladders
+
+https://user-images.githubusercontent.com/54240237/224513942-44ad94d9-b468-4f48-b08d-2e6f44afc175.mov
+
 
 
 
