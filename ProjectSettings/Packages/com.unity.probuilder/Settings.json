@@ -191,7 +191,7 @@
             {
                 "type": "UnityEngine.ProBuilder.SelectMode, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "editor.lastMeshSelectMode",
-                "value": "{\"m_Value\":4}"
+                "value": "{\"m_Value\":8}"
             },
             {
                 "type": "UnityEngine.ProBuilder.ExtrudeMethod, Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -216,7 +216,7 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize",
-                "value": "{\"m_Value\":{\"x\":9.997838020324707,\"y\":0.46301788091659548,\"z\":10.182491302490235}}"
+                "value": "{\"m_Value\":{\"x\":-7.684364318847656,\"y\":0.39711666107177737,\"z\":11.071527481079102}}"
             },
             {
                 "type": "UnityEngine.Quaternion, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
