@@ -32,7 +32,8 @@ LIST OF GAME MECHANICS
 19. Programming
 20. Undo
 21. Ladders
-21. ... Coming soon ...
+22. HP From enemy
+23. ... Coming soon ...
 
 
 
@@ -195,6 +196,14 @@ https://user-images.githubusercontent.com/54240237/224450920-2f1d0ab8-1ff2-4427-
 21. Ladders
 
 https://user-images.githubusercontent.com/54240237/224513942-44ad94d9-b468-4f48-b08d-2e6f44afc175.mov
+
+---
+
+22. HP From enemy
+
+Getting hit points from enemies.
+
+https://user-images.githubusercontent.com/54240237/224570764-d685dbec-2f7a-4a00-9ea7-95c8a34aabd8.mov
 
 
 
