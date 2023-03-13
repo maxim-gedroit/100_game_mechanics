@@ -33,7 +33,8 @@ LIST OF GAME MECHANICS
 20. Undo
 21. Ladders
 22. HP From enemy
-23. ... Coming soon ...
+23. Difficulty selection
+24. ... Coming soon ...
 
 
 
@@ -205,7 +206,11 @@ Getting hit points from enemies.
 
 https://user-images.githubusercontent.com/54240237/224570764-d685dbec-2f7a-4a00-9ea7-95c8a34aabd8.mov
 
+---
 
+23. Difficulty selection
+
+https://user-images.githubusercontent.com/54240237/224746637-e0c918b5-e80a-4894-97ed-548419ac44fa.mov
 
 
 
