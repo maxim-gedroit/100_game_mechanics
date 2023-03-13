@@ -34,7 +34,8 @@ LIST OF GAME MECHANICS
 21. Ladders
 22. HP From enemy
 23. Difficulty selection
-24. ... Coming soon ...
+24. Combo
+25. ... Coming soon ...
 
 
 
@@ -212,6 +213,13 @@ https://user-images.githubusercontent.com/54240237/224570764-d685dbec-2f7a-4a00-
 
 https://user-images.githubusercontent.com/54240237/224746637-e0c918b5-e80a-4894-97ed-548419ac44fa.mov
 
+---
+
+24. Combo
+
+Standard combos like in Tekken.
+
+https://user-images.githubusercontent.com/54240237/224772666-a4deecfa-5337-42b6-9756-f214c95063ed.mov
 
 
 
