@@ -35,7 +35,8 @@ LIST OF GAME MECHANICS
 22. HP From enemy
 23. Difficulty selection
 24. Combo
-25. ... Coming soon ...
+25. Portals
+26. ... Coming soon ...
 
 
 
@@ -220,6 +221,12 @@ https://user-images.githubusercontent.com/54240237/224746637-e0c918b5-e80a-4894-
 Standard combos like in Tekken.
 
 https://user-images.githubusercontent.com/54240237/224772666-a4deecfa-5337-42b6-9756-f214c95063ed.mov
+
+---
+
+25. Portals
+
+https://user-images.githubusercontent.com/54240237/225959115-5a61eb10-2ae7-476f-b02c-a49edee860d1.mov
 
 
 
