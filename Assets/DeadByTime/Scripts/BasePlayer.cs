@@ -3,6 +3,7 @@ using UnityEngine;
 [RequireComponent(typeof(CharacterController))]
 public class BasePlayer : MonoBehaviour
 {
+    
     public float speed = 6.0f;
     public float jumpSpeed = 8.0f;
     public float rotateSpeed = 0.8f;
@@ -17,9 +18,9 @@ public class BasePlayer : MonoBehaviour
     {
         controller = GetComponent<CharacterController>();
         playerCamera = GetComponentInChildren<Camera>().transform;
-        Cursor.visible = false;
+        
+        Cursor.visible = true;
         Cursor.lockState = CursorLockMode.Locked;
-
     }
 
     private void Update()
