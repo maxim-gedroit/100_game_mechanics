@@ -38,7 +38,8 @@ LIST OF GAME MECHANICS
 25. Portals
 26. Physics gun
 27. Airport Controller
-28. ... Coming soon ...
+28. Eleksir
+29. ... Coming soon ...
 
 
 
@@ -242,7 +243,11 @@ https://user-images.githubusercontent.com/54240237/225972845-e35ee8f0-bece-4101-
 
 https://user-images.githubusercontent.com/54240237/226004049-bd841fb3-1841-4536-a8f2-57b2246b86b3.mov
 
+---
 
+28. Eliksir
+
+https://user-images.githubusercontent.com/54240237/226112373-b99a37ba-0648-467c-b63a-84655e58bbe7.mov
 
 
 
