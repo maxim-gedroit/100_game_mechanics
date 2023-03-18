@@ -9,6 +9,8 @@ TagManager:
   - 1
   - 2
   - 3
+  - Cup
+  - Water
   layers:
   - Default
   - TransparentFX
