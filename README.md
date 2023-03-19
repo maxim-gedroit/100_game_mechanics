@@ -39,7 +39,8 @@ LIST OF GAME MECHANICS
 26. Physics gun
 27. Airport Controller
 28. Eleksir
-29. ... Coming soon ...
+29. Dynamic Difficulty
+30. ... Coming soon ...
 
 
 
@@ -248,6 +249,12 @@ https://user-images.githubusercontent.com/54240237/226004049-bd841fb3-1841-4536-
 28. Eliksir
 
 https://user-images.githubusercontent.com/54240237/226112373-b99a37ba-0648-467c-b63a-84655e58bbe7.mov
+
+---
+
+29. Dynamic Difficulty
+
+https://user-images.githubusercontent.com/54240237/226175869-649ef4d2-8dd5-4cb5-9d2f-953fb8a1647f.mov
 
 
 
