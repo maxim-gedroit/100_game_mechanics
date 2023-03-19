@@ -40,7 +40,8 @@ LIST OF GAME MECHANICS
 27. Airport Controller
 28. Eleksir
 29. Dynamic Difficulty
-30. ... Coming soon ...
+30. Clicker
+31. ... Coming soon ...
 
 
 
@@ -256,6 +257,11 @@ https://user-images.githubusercontent.com/54240237/226112373-b99a37ba-0648-467c-
 
 https://user-images.githubusercontent.com/54240237/226175869-649ef4d2-8dd5-4cb5-9d2f-953fb8a1647f.mov
 
+---
+
+30. Clicker
+
+https://user-images.githubusercontent.com/54240237/226207590-94fcb345-ddf9-48ef-977e-0f3b75558061.mov
 
 
 
