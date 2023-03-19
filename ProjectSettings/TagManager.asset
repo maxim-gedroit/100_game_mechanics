@@ -4,13 +4,20 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - life
-  - Map
-  - 1
-  - 2
-  - 3
-  - Cup
-  - Water
+  - Car
+  - GameManager
+  - TreeAndRock
+  - RightBarrier
+  - LeftLand
+  - RightLand
+  - LeftLamp
+  - RightLamp
+  - Gold
+  - LeftBarrier
+  - Path
+  - UIManager
+  - CharacterSelectController
+  - Camera
   layers:
   - Default
   - TransparentFX
@@ -18,11 +25,11 @@ TagManager:
   - 
   - Water
   - UI
-  - Interactive
-  - Ground
-  - War1
-  - War2
-  - Molecule
+  - 
+  - 
+  - CharacterSelectionUI
+  - 
+  - 
   - 
   - 
   - 
