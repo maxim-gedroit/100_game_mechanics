@@ -41,7 +41,8 @@ LIST OF GAME MECHANICS
 28. Eleksir
 29. Dynamic Difficulty
 30. Clicker
-31. ... Coming soon ...
+31. Simple store
+30. ... Coming soon ...
 
 
 
@@ -263,7 +264,11 @@ https://user-images.githubusercontent.com/54240237/226175869-649ef4d2-8dd5-4cb5-
 
 https://user-images.githubusercontent.com/54240237/226207590-94fcb345-ddf9-48ef-977e-0f3b75558061.mov
 
+---
 
+31. Simple store
+
+https://user-images.githubusercontent.com/54240237/226471305-89c47b22-dbf6-4410-8be9-8508b6667ab2.mov
 
 
 
